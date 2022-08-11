@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zerozct
+- 👋 Hi, I’m @Zero
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python
 - 📫 zerozct@gmail.com
